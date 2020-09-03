@@ -14,7 +14,7 @@
     {
       "route": "/playbook",
       "name": "Playbook",
-      "description": "This is the playbook",
+      "description": "This is the SRE Teams Playbook",
       "icon": "address-book",
       "children": [
         {
@@ -74,7 +74,7 @@
             }
           ]
         }
-      ]      
+      ]
     }
   ]
 }
